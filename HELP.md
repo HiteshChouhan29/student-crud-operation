@@ -15,8 +15,8 @@ Using MySql as database and running on port : 3306
 # Build
 
 # Run
-1. Open cmd.
-2. Enter the command - Mvn clean install
+1. Open project directory in CMD.
+2. Enter the command - mvn clean install
  
 
 # Api's
@@ -51,12 +51,3 @@ http://localhost:8085/save
 4. To delete the Student by id
 http://localhost:8085/delete/{id}
 
-5. To 
-
-
-{
-
-    id:78,
-    name:"jlkjhkh",
-
-}
